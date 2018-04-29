@@ -1,5 +1,9 @@
 # Limits Service
 
+Diagrama do projeto:
+
+![image](https://github.com/santaniello/spring-cloud-netflix-oss/blob/master/limits-service/imgs/diagrama.png)
+
 Rodando com um profile específico:
 
 ![image](https://github.com/santaniello/spring-cloud-netflix-oss/blob/master/limits-service/imgs/profiles.png)
