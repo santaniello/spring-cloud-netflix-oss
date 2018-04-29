@@ -1,5 +1,10 @@
 # Limits Service
 
+Rodando com um profile específico:
+
+![image](https://github.com/santaniello/spring-cloud-netflix-oss/blob/master/limits-service/imgs/profiles.png)
+
+
 Descrição: Serviço que tem como objetivo se conectar ao spring cloud configuration e obter as configurações de lá baseado em um profile específico.
 
 Tecnologias utilizadas no projeto:
